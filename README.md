@@ -99,10 +99,29 @@ Follow these steps to run the project locally:
 - dotenv
 - nodemailer
 
-## Credits
+## Ảnh demo
+### Đăng ký
+![Register](public/results/register.png)
+lưu vào Mongo
+![Register](public/results/check_mongodb.png)
 
-This project was created by [Ravikant Singh](https://github.com/ravikantsingh12). Contributions via issues or pull requests are welcome!
+### Đăng nhập
+![Login](public/results/login.png)
 
-## Follow me on
+### Đăng nhập bằng Google
+![Login](public/results/login_with_google.png)
 
-- [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
+### Đăng nhập nhưng không xác thực captcha
+![Login](public/results/check_select_captcha.png)
+
+### Kiểm tra sai login 
+![Login](public/results/check_loi_login.png)
+
+### Đổi mật khẩu
+![Login](public/results/change_password.png)
+
+### Quên mật khẩu
+![Login](public/results/forget_password.png)
+
+### Đăng xuất
+![Login](public/results/logout.png)
